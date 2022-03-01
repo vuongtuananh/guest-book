@@ -1,3 +1,4 @@
+[![Build and Deploy](https://github.com/vuongtuananh/guest-book/actions/workflows/deploy.yml/badge.svg)](https://github.com/vuongtuananh/guest-book/actions/workflows/deploy.yml)
 Guest Book
 ==========
 
